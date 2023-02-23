@@ -1,0 +1,11 @@
+{
+  "name": "@raviqqe/react-tsconfig",
+  "description": "tsconfig.json for React apps",
+  "version": "1.0.9",
+  "license": "MIT",
+  "repository": "https://github.com/raviqqe/react-tsconfig",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
