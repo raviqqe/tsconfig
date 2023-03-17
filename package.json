@@ -6,6 +6,6 @@
   "repository": "https://github.com/raviqqe/tsconfig",
   "dependencies": {},
   "devDependencies": {
-    "typescript": "^4.8.4"
+    "typescript": "^5.0.2"
   }
 }
