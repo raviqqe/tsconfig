@@ -1,7 +1,7 @@
 {
   "name": "@raviqqe/tsconfig",
   "description": "tsconfig.json for me",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "license": "MIT",
   "repository": "https://github.com/raviqqe/tsconfig",
   "dependencies": {},
