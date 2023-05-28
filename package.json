@@ -1,9 +1,12 @@
 {
   "name": "@raviqqe/tsconfig",
   "description": "tsconfig.json for me",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "license": "MIT",
   "repository": "https://github.com/raviqqe/tsconfig",
+  "publishConfig": {
+    "provenance": true
+  },
   "dependencies": {},
   "devDependencies": {
     "typescript": "^5.0.2"
