@@ -4,7 +4,7 @@
 [![npm](https://img.shields.io/npm/v/@raviqqe/tsconfig?style=flat-square)](https://www.npmjs.com/package/@raviqqe/tsconfig)
 [![License](https://img.shields.io/github/license/raviqqe/tsconfig.svg?style=flat-square)](LICENSE)
 
-TypeScript configuration for React apps.
+TypeScript configuration.
 
 ## License
 
