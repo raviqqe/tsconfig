@@ -7,7 +7,7 @@
   "publishConfig": {
     "provenance": true
   },
-  "devDependencies": {
+  "dependencies": {
     "typescript": "^5.8.2"
   }
 }
