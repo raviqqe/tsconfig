@@ -6,7 +6,6 @@
     "declarationMap": true,
     "downlevelIteration": true,
     "esModuleInterop": true,
-    "erasableSyntaxOnly": true,
     "experimentalDecorators": true,
     "forceConsistentCasingInFileNames": true,
     "incremental": true,
