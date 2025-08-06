@@ -1,7 +1,7 @@
 {
   "name": "@raviqqe/tsconfig",
   "description": "tsconfig.json for me",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "license": "MIT",
   "repository": "https://github.com/raviqqe/tsconfig",
   "publishConfig": {
