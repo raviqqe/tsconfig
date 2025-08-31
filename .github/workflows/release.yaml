@@ -10,11 +10,11 @@ jobs:
     permissions:
       contents: read
       id-token: write
+    environment: ${{ github.ref == 'refs/heads/main' && 'release' || '' }}
     steps:
       - uses: actions/checkout@v5
-      - uses: actions/setup-node@v4
-      - uses: js-devtools/npm-publish@v3
-        if: github.ref == 'refs/heads/main'
+      - uses: ./.github/actions/setup
+      - uses: raviqqe/pnpm-publish@v2
         with:
-          access: public
-          token: ${{ secrets.NPM_TOKEN }}
+          build_script:
+          release: ${{ github.ref == 'refs/heads/main' }}
