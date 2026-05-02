@@ -1,19 +1,18 @@
 {
   "compilerOptions": {
     "allowJs": true,
-    "allowSyntheticDefaultImports": true,
     "declaration": true,
     "declarationMap": true,
-    "esModuleInterop": true,
     "erasableSyntaxOnly": true,
-    "experimentalDecorators": true,
     "forceConsistentCasingInFileNames": true,
     "incremental": true,
     "isolatedModules": true,
-    "lib": ["dom", "dom.asynciterable", "dom.iterable", "esnext", "webworker"],
+    "lib": ["dom", "esnext"],
     "module": "nodenext",
     "moduleResolution": "nodenext",
     "noFallthroughCasesInSwitch": true,
+    "noImplicitOverride": true,
+    "noImplicitReturns": true,
     "noUncheckedIndexedAccess": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
@@ -21,6 +20,6 @@
     "skipLibCheck": true,
     "sourceMap": true,
     "strict": true,
-    "target": "es2022",
-  },
+    "target": "es2024"
+  }
 }
