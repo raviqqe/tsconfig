@@ -4,8 +4,14 @@
   "description": "tsconfig.json for me",
   "license": "MIT",
   "repository": "https://github.com/raviqqe/tsconfig",
+  "files": [
+    "tsconfig.json"
+  ],
   "publishConfig": {
     "provenance": true
+  },
+  "scripts": {
+    "test": "tsc --project test"
   },
   "dependencies": {
     "typescript": "^7.0.2"
