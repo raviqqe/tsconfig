@@ -5,7 +5,6 @@
     "erasableSyntaxOnly": true,
     "forceConsistentCasingInFileNames": true,
     "incremental": true,
-    "isolatedDeclarations": true,
     "isolatedModules": true,
     "lib": ["dom", "esnext"],
     "module": "nodenext",
